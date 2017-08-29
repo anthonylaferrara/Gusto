@@ -1,0 +1,17 @@
+.div-pres-map{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    height: 70vh;
+    width: 100vw;
+    -webkit-background-size: cover ;
+    -moz-background-size:cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background: url('https://static.pexels.com/photos/6267/menu-restaurant-vintage-table.jpg') no-repeat center center;
+}
+
+#belgium_map{
+    margin-top: 15%;
+    width: 45vw;
+    height: 50vh;
+}
